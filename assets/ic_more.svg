@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="3px" viewBox="0 0 14 3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>More</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="List_boards_main" transform="translate(-326.000000, -400.000000)" fill="#000000">
+            <g id="list-user" transform="translate(-3.000000, 142.000000)">
+                <g id="user_cnt-copy" transform="translate(3.000000, 0.000000)">
+                    <g id="User-and-location" transform="translate(20.000000, 199.000000)">
+                        <g id="info-bottom" transform="translate(0.000000, 43.000000)">
+                            <path d="M318.404558,19 C317.52342,19 316.809117,18.3284271 316.809117,17.5 C316.809117,16.6715729 317.52342,16 318.404558,16 C319.285696,16 320,16.6715729 320,17.5 C320,18.3284271 319.285696,19 318.404558,19 Z M313.08642,19 C312.205282,19 311.490978,18.3284271 311.490978,17.5 C311.490978,16.6715729 312.205282,16 313.08642,16 C313.967558,16 314.681861,16.6715729 314.681861,17.5 C314.681861,18.3284271 313.967558,19 313.08642,19 Z M307.768281,19 C306.887143,19 306.17284,18.3284271 306.17284,17.5 C306.17284,16.6715729 306.887143,16 307.768281,16 C308.649419,16 309.363723,16.6715729 309.363723,17.5 C309.363723,18.3284271 308.649419,19 307.768281,19 Z" id="More"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
